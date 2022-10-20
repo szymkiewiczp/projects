@@ -1,0 +1,37 @@
+main:
+  - title: "About me"
+    url: https://szymkiewiczp.github.io/
+  - title: "Home"
+    url: /
+  - title: "Gallery"
+    url : /gallery
+  - title: "Featured projects"
+    url : /featured-projects
+
+left_sidebar:
+  - title: General
+    url: /
+    children:
+      - title: "About me"
+        url: https://szymkiewiczp.github.io/
+      - title: "Home page"
+        url: /
+      - title: "Gallery"
+        url: /gallery
+  - title: Featured projects
+    url: /featured-projects
+    children:
+      - title: "Minecraft minigame engine"
+        url: /minecraft-game-engine
+      - title: "Moo"
+        url: /moo
+      - title: "CAD & milling simulator"
+        url: /cad
+      - title: "Rust in Peace"
+        url: /rust-in-peace
+      - title: "One"
+        url: /one
+      - title: "Miscellaneous demos"
+        url: /miscellaneous
+      - title: "Other projects"
+        url: /other-projects
