@@ -18,6 +18,11 @@ Play with your friends or add computer-controlled players. Create your own room 
 * Two levels of AI difficulty
 * Collectible upgrades and weapons
 
+## My responsibilities
+* Game host (server) and client logic
+* Internal game host communication
+* Weapon and upgrade system
+
 ## Gallery
 
 <div class="photoswipe-gallery">
