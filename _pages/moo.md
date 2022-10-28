@@ -21,6 +21,11 @@ You have been kidnapped by space cows and need to get out of their spaceship. Us
 * Score system with leaderboards
 * Neon lighting
 
+## My responsibilities
+* Weapon and upgrade system
+* Visual effects
+* User interface
+
 ## Gallery
 
 <div class="photoswipe-gallery">
